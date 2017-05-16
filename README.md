@@ -1,0 +1,2 @@
+# BwapiBotByBwmirror
+IntelliJ  
